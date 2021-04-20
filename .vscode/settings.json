@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": true,
+    "files.autoSave": "off",
+    "editor.formatOnType": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "eslint.alwaysShowStatus": true,
+    "files.associations": {
+      "*.js": "javascriptreact"
+    }
+}
